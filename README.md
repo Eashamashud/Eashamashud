@@ -3,7 +3,7 @@
 I am a third year computer science student at the University of Albany. I am passionate about learning almost anything and leveraging that knowledge towards the field of technology. 
 
 Feel free to connect with me on Linkedin!
-https://www.linkedin.com/in/eashamashud/
+[👉 Linkedin](https://www.linkedin.com/in/eashamashud/)
 
 <!--
 **Eashamashud/Eashamashud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
