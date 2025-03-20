@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-I’m a junior at the University at Albany majoring in Computer Science, driven by a passion for building impactful solutions that enhance human life. I thrive on solving complex problems and continuously expanding my skill set in software development.
-Beyond academics, I enjoy strength training, reading, and exploring knowledge across various fields. I’m always eager to learn, innovate, and take on challenges that push my limits. Whether it’s coding, fitness, or discovering new perspectives, I believe in lifelong growth and making meaningful contributions to the world..
+I’m a junior at the University at Albany majoring in Computer Science, driven by a passion for building impactful solutions that enhance human life.  
+
+I thrive on solving complex problems and continuously expanding my skill set in **software development**. I’m always eager to learn, innovate, and take on challenges that push my limits.  
 
 Feel free to connect with me on Linkedin!
 [👉 Linkedin](https://www.linkedin.com/in/eashamashud/)
