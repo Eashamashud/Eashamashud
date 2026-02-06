@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a junior at the University at Albany majoring in Computer Science, driven by a passion for building impactful solutions that enhance human life.  
+I’m a senior at the University at Albany majoring in Computer Science, driven by a passion for building impactful solutions that enhance human life.  
 
 I thrive on solving complex problems and continuously expanding my skill set in **software development**. I’m always eager to learn, innovate, and take on challenges that push my limits.  
 
